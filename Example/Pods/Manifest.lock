@@ -1,0 +1,16 @@
+PODS:
+  - PLOptionalExtension (0.1.1)
+
+DEPENDENCIES:
+  - PLOptionalExtension (from `../`)
+
+EXTERNAL SOURCES:
+  PLOptionalExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PLOptionalExtension: c2124d1b8032c79bd45d02cbaee2ea4b397df578
+
+PODFILE CHECKSUM: af107526d22273446032344c77df830bc090e330
+
+COCOAPODS: 1.9.1
